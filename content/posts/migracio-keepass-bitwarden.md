@@ -1,7 +1,6 @@
 ---
 title: "Migracio Keepass Bitwarden"
 date: 2022-01-20T20:30:15+01:00
-draft: true
 ---
 
 # Migrant de keepass a bitwarden

@@ -1,7 +1,6 @@
 ---
 title: "Hola Mon"
 date: 2022-01-20T19:22:28+01:00
-draft: true
 ---
 
 Fa temps que volia fer un petit blog on anar posant les meves notes de manera pública, per si poden servir a altres persones que tenguin els meus mateixos interessos, això si en català, que és la meva llengua primària, tot i que de vegades també hi pugui haver material en altres llengues (castellà o anglès)
