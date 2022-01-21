@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/s3rgi/s3rgi.github.io.git
+	branch = main
