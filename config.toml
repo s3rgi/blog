@@ -1,4 +1,4 @@
-title = "Blog de s3rgi"
+title = "s3rgi"
 baseURL = "https://s3rgi.github.io/"
 
 # using theme locally (git clone, submodule or as zip)
@@ -29,7 +29,7 @@ disqusShortname = ""
 
   # Description and meta data for the search engines
   author = "s3rgi"
-  description = "el blog de s3rgi."
+  description = "el blog de s3rgi"
   keywords = "blog,personal,responsive,search,font awesome,pages,posts,multilingual,highlight.js,syntax highlighting,shortcuts"
 
   # How many articles should be displayed at once?
@@ -39,9 +39,9 @@ disqusShortname = ""
   enable_mathjax    = false
 
   # Enable / Disable algolia search
-  algolia_search    = true
-  algolia_appId     = "45CEN6X6AT"
-  algolia_apiKey    = "16030625f1a4d0dd3b8aefd794fd4cf1"
+  algolia_search    = false
+  algolia_appId     = ""
+  algolia_apiKey    = ""
   algolia_indexName = "bilberry-hugo-theme"
   # Set this option to false if you want to search within all articles in all languages at once
   algolia_currentLanguageOnly = true
@@ -80,7 +80,7 @@ disqusShortname = ""
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "Hola món ! Ja som aquí !."
+    subtitle = "El lloc la que mai hauries d'haver arribat !"
 
     # if you want to use libravatar or gravatar for the header image
     avatarEmail = "snavas@gmail.com"
