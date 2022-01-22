@@ -1,0 +1,9 @@
+[ca]
+  title = "El blog d'en s3rgi"
+  LanguageName = "Catala"
+  weight = 1
+
+[es]
+  title = "El blog de s3rgi"
+  LanguageName = "Español"
+  weight = 2

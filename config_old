@@ -1,6 +1,7 @@
 title = "s3rgi"
 baseURL = "https://s3rgi.github.io/"
-logo = "/logos/logo.png"
+Logo = "/logos/logo.png"
+centerLogo = false
 
 # using theme locally (git clone, submodule or as zip)
 #theme = "bilberry-hugo-theme"
@@ -82,7 +83,7 @@ disqusShortname = ""
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "El lloc la que mai hauries d'haver arribat !"
+    subtitle = "El blog de'n s3rgi"
 
     # if you want to use libravatar or gravatar for the header image
     avatarEmail = "snavas@gmail.com"
