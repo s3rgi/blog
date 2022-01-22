@@ -1,8 +1,10 @@
 title = "s3rgi"
 baseURL = "https://s3rgi.github.io/"
+logo = "/logos/logo.png"
 
 # using theme locally (git clone, submodule or as zip)
-theme = "bilberry-hugo-theme"
+#theme = "bilberry-hugo-theme"
+theme = "hugo-clarity"
 
 # using theme as Hugo module (uncomment to activate)
 # theme = "github.com/Lednerb/bilberry-hugo-theme"

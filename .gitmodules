@@ -2,3 +2,6 @@
 	path = public
 	url = https://github.com/s3rgi/s3rgi.github.io.git
 	branch = main
+[submodule "themes/themes/hugo-clarity"]
+	path = themes/themes/hugo-clarity
+	url = https://github.com/chipzoller/hugo-clarity
