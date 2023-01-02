@@ -1,6 +1,7 @@
 ---
 title: "Posant el blog a Github Pages"
 date: 2022-01-21T21:31:23+01:00
+draft: true
 ---
 
 Una vegada decidit que vull fer un blog amb hugo, el seguent és cercar lloc on posar-lo i que sigui fàcil d'actualitzarr...
