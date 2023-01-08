@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on El blog d&#39;en s3rgi</title>
+    <link>https://blog.tecnopalma.es/post/</link>
+    <description>Recent content in Posts on El blog d&#39;en s3rgi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2022–2023, Sergi Navas and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Mon, 02 Jan 2023 19:22:28 +0100</lastBuildDate><atom:link href="https://blog.tecnopalma.es/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Com tenc muntat el servidor de casa</title>
+      <link>https://blog.tecnopalma.es/post/com-tenc-muntat-servidor-casa/</link>
+      <pubDate>Mon, 02 Jan 2023 19:22:28 +0100</pubDate>
+      
+      <guid>https://blog.tecnopalma.es/post/com-tenc-muntat-servidor-casa/</guid>
+      <description>
+        
+          
+            Una de les coses a les que més temps lliure he dedicat aquesta darrers mesos, apart de la domòtica, es a muntar serveis amb docker al petit servidor que tenc a casa, un SOC d&#39;aquests xinesos comprat a Amazon (https://www.amazon.es/dp/B08HLPX1Q2?ref=ppx_pop_mob_ap_share) però que està resultant una bona maquineta, és molt potent i quasi no consumeix, genial!
+A aquest servidor hi ha instalada una distribució debian sense cap entorn gràfic, i a sobre això corren els diferents serveis.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Migracio Keepass Bitwarden</title>
+      <link>https://blog.tecnopalma.es/post/migracio-keepass-bitwarden/</link>
+      <pubDate>Thu, 20 Jan 2022 20:30:15 +0100</pubDate>
+      
+      <guid>https://blog.tecnopalma.es/post/migracio-keepass-bitwarden/</guid>
+      <description>
+        
+          
+            Migrant de keepass a bitwarden Fa un temps que me duia &amp;quot;rondant&amp;quot; el cap fer un canvi al meu sistema de contrasenyes, amb el qual he estat &amp;quot;fidel&amp;quot; a keepass des de fa més de 15 anys, les primers entrades que he trobat al meu fitxer keepass són del 26/06/2006.
+El decidirme a fer la migració ha vengut un poc provocat perquè he llegit una entrada del blog d&#39;aquest tipo ( https://trycatch.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Hola Mon</title>
+      <link>https://blog.tecnopalma.es/post/hola-mon/</link>
+      <pubDate>Thu, 20 Jan 2022 19:22:28 +0100</pubDate>
+      
+      <guid>https://blog.tecnopalma.es/post/hola-mon/</guid>
+      <description>
+        
+          
+            Fa temps que volia fer un petit blog on anar posant les meves notes de manera pública, per si poden servir a altres persones que tenguin els meus mateixos interessos, això si en català, que és la meva llengua primària, tot i que de vegades també hi pugui haver material en altres llengues (castellà o anglès)
+Començam, 27/09/2021 ! Aprofitant aquests dies on he muntat un petit servidor a casa (ara veurem si tot això no acaba a un vps) amb tota una sèrie de serveis interns, he decidit muntar un blog.
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
