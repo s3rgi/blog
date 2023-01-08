@@ -1,10 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>index on El blog d&#39;en s3rgi</title>
-    <link>https://blog.tecnopalma.es/tags/index/</link>
-    <description>Recent content in index on El blog d&#39;en s3rgi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright © 2022–2023, Sergi Navas and the Hugo Authors; all rights reserved.</copyright><atom:link href="https://blog.tecnopalma.es/tags/index/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>index - Etiqueta - El blog d&#39;en s3rgi</title>
+        <link>https://blog.tecnopalma.es/tags/index/</link>
+        <description>index - Etiqueta - El blog d&#39;en s3rgi</description>
+        <generator>Hugo -- gohugo.io</generator><language>ca</language><copyright>Copyright © 2022–2023, Sergi Navas and the Hugo Authors; all rights reserved.</copyright><atom:link href="https://blog.tecnopalma.es/tags/index/" rel="self" type="application/rss+xml" /><item>
+    <title>Posts</title>
+    <link>https://blog.tecnopalma.es/posts/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Hugo Authors</author>
+    <guid>https://blog.tecnopalma.es/posts/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>

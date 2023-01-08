@@ -5,7 +5,7 @@ baseURL = "https://blog.tecnopalma.es"
 theme = "LoveIt"
 # themes directory
 # 主题目录
-themesDir = "../.."
+#themesDir = "../.."
 
 # website title
 # 网站标题
@@ -51,8 +51,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 # Author config
 # 作者配置
 [author]
-  name = "xxxx"
-  email = ""
+  name = "Sergi"
+  email = "sergi@tecnopalma.com"
   link = ""
 
 # Menu config
@@ -67,7 +67,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # you can add extra information after the name (HTML format is supported), such as icons
     # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
     post = ""
-    name = "Posts"
+    name = "Publicacions"
     url = "/posts/"
     # title will be shown when you hover on this menu link
     # 当您将鼠标悬停在此菜单链接上时, 将显示标题
@@ -95,21 +95,21 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   defaultTheme = "auto"
   # public git repo url only then enableGitInfo is true
   # 公共 git 仓库路径，仅在 enableGitInfo 设为 true 时有效
-  gitRepo = "https://github.com/dillonzq/LoveIt"
+  gitRepo = "https://github.com/s3rgi/blog"
   # which hash function used for SRI, when empty, no SRI is used
   # ["sha256", "sha384", "sha512", "md5"]
   # 哪种哈希函数用来 SRI, 为空时表示不使用 SRI
   # ["sha256", "sha384", "sha512", "md5"]
-  fingerprint = ""
+  fingerprint = "sha256"
   # date format
   # 日期格式
   dateFormat = "2006-01-02"
   # website title for Open Graph and Twitter Cards
   # 网站标题, 用于 Open Graph 和 Twitter Cards
-  title = "LoveIt"
+  title = "El blog de'n s3rgi"
   # website description for RSS, SEO, Open Graph and Twitter Cards
   # 网站描述, 用于 RSS, SEO, Open Graph 和 Twitter Cards
-  description = "Hugo theme - LoveIt"
+  description = "Blog fet amb Hugo amb el tema LoveIt"
   # website images for Open Graph and Twitter Cards
   # 网站图片, 用于 Open Graph 和 Twitter Cards
   images = ["/logo.png"]
@@ -131,10 +131,10 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       logo = ""
       # title name
       # 标题名称
-      name = "LoveIt"
+      name = " Blog de'n s3rgi"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
-      pre = "<i class='far fa-kiss-wink-heart fa-fw' aria-hidden='true'></i>"
+      pre = "<i class='fa-solid fa-cube' aria-hidden='true'></i>"
       # you can add extra information after the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
       post = ""
@@ -199,7 +199,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   [params.app]
     # optional site title override for the app when added to an iOS home screen or Android launcher
     # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
-    title = "LoveIt"
+    title = "s3rgi"
     # whether to omit favicon resource links
     # 是否隐藏网站图标资源链接
     noFavicon = false
@@ -222,7 +222,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     enable = true
     # type of search engine ["lunr", "algolia"]
     # 搜索引擎的类型 ["lunr", "algolia"]
-    type = "algolia"
+    type = "lunr"
     # max index length of the chunked content
     # 文章内容最长索引长度
     contentLength = 4000
@@ -258,7 +258,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       enable = true
       # Gravatar Email for preferred avatar in home page
       # Gravatar 邮箱，用于优先在主页显示的头像
-      gravatarEmail = ""
+      gravatarEmail = "sergi@tecnopalma.com"
       # URL of avatar shown in home page
       # 主页显示头像的 URL
       avatarURL = "/images/avatar.png"
@@ -267,7 +267,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       title = ""
       # subtitle shown in home page (HTML format is supported)
       # 主页显示的网站副标题 (允许 HTML 格式)
-      subtitle = "A Clean, Elegant but Advanced Hugo Theme"
+      subtitle = "El blog de'n s3rgi. Un lloc on posar les meves coses..."
       # whether to use typeit animation for subtitle
       # 是否为副标题显示打字机动画
       typeit = true
@@ -287,12 +287,12 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # Social config in home page
   # 主页的社交信息设置
   [params.social]
-    GitHub = ""
+    GitHub = "s3rgi"
     Linkedin = ""
-    Twitter = ""
-    Instagram = ""
+    Twitter = "s3rgi"
+    Instagram = "s3rgi1"
     Facebook = ""
-    Telegram = ""
+    Telegram = "s3rgi"
     Medium = ""
     Gitlab = ""
     Youtubelegacy = ""
@@ -310,7 +310,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     Weibo = ""
     Odnoklassniki = ""
     VK = ""
-    Flickr = ""
+    Flickr = "s3rgi"
     Xing = ""
     Snapchat = ""
     Soundcloud = ""
@@ -342,7 +342,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     Vine = ""
     Googlescholar = ""
     Researchgate = ""
-    Mastodon = ""
+    Mastodon = "https://mastodont.cat/@s3rgi"
     Thingiverse = ""
     Devto = ""
     Gitea = ""
@@ -359,7 +359,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     Plume = ""
     HackTheBox = ""
     RootMe= ""
-    Email = ""
+    Email = "sergi@tecnopalma.com"
     RSS = ""
 
   # Page global config
@@ -379,7 +379,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     lightgallery = false
     # whether to enable the ruby extended syntax
     # 是否使用 ruby 扩展语法
-    ruby = true
+    ruby = false
     # whether to enable the fraction extended syntax
     # 是否使用 fraction 扩展语法
     fraction = true
@@ -460,21 +460,21 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     [params.page.share]
       enable = true
       Twitter = true
-      Facebook = true
+      Facebook = false
       Linkedin = false
-      Whatsapp = false
-      Pinterest = false
+      Whatsapp = true
+      Pinterest = true
       Tumblr = false
-      HackerNews = true
-      Reddit = false
+      HackerNews = false
+      Reddit = true
       VK = false
       Buffer = false
       Xing = false
-      Line = true
+      Line = false
       Instapaper = false
-      Pocket = false
+      Pocket = true
       Flipboard = false
-      Weibo = true
+      Weibo = false
       Blogger = false
       Baidu = false
       Odnoklassniki = false
@@ -788,38 +788,38 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 # Multilingual
 # 多语言
 [languages]
-  [languages.en]
+  [languages.es]
     weight = 1
-    languageCode = "en"
-    languageName = "English"
+    languageCode = "es"
+    languageName = "Español"
     hasCJKLanguage = false
     copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
-    [languages.en.menu]
-      [[languages.en.menu.main]]
+    [languages.es.menu]
+      [[languages.es.menu.main]]
         weight = 1
         identifier = "posts"
         pre = ""
         post = ""
-        name = "Posts"
+        name = "Publicaciones"
         url = "/posts/"
         title = ""
-      [[languages.en.menu.main]]
+      [[languages.es.menu.main]]
         weight = 2
         identifier = "tags"
         pre = ""
         post = ""
-        name = "Tags"
+        name = "Etiquetas"
         url = "/tags/"
         title = ""
-      [[languages.en.menu.main]]
+      [[languages.es.menu.main]]
         weight = 3
         identifier = "categories"
         pre = ""
         post = ""
-        name = "Categories"
+        name = "Categorias"
         url = "/categories/"
         title = ""
-      [[languages.en.menu.main]]
+      [[languages.es.menu.main]]
         weight = 4
         identifier = "documentation"
         pre = ""
@@ -827,24 +827,24 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         name = "Docs"
         url = "/categories/documentation/"
         title = ""
-      [[languages.en.menu.main]]
+      [[languages.es.menu.main]]
         weight = 5
         identifier = "about"
         pre = ""
         post = ""
-        name = "About"
+        name = "Sobre"
         url = "/about/"
         title = ""
-      [[languages.en.menu.main]]
+      [[languages.es.menu.main]]
         weight = 6
         identifier = "github"
         pre = "<i class='fab fa-github fa-fw' aria-hidden='true'></i>"
         post = ""
         name = ""
-        url = "https://github.com/dillonzq/LoveIt"
+        url = "https://github.com/s3rgi"
         title = "GitHub"
-    [languages.en.params]
-      [languages.en.params.search]
+    [languages.es.params]
+      [languages.es.params.search]
         enable = true
         type = "algolia"
         contentLength = 4000
@@ -853,122 +853,32 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         snippetLength = 30
         highlightTag = "em"
         absoluteURL = false
-        [languages.en.params.search.algolia]
-          index = "index.en"
-          appID = "PASDMWALPK"
-          searchKey = "b42948e51daaa93df92381c8e2ac0f93"
-      [languages.en.params.home]
+        [languages.es.params.search.algolia]
+          index = ""
+          appID = ""
+          searchKey = ""
+      [languages.es.params.home]
         rss = 10
-        [languages.en.params.home.profile]
+        [languages.es.params.home.profile]
           enable = true
-          gravatarEmail = ""
+          gravatarEmail = "sergi@tecnopalma.com"
           avatarURL = "/images/avatar.png"
           title = ""
-          subtitle = "A Clean, Elegant but Advanced Hugo Theme"
+          subtitle = "El blog de s3rgi. Un lugar para poner mis cosas."
           typeit = true
           social = true
           disclaimer = ""
-      [languages.en.params.social]
-        GitHub = "xxxx"
-        Twitter = "xxxx"
-        Instagram = "xxxx"
-        Facebook = "xxxx"
-        Telegram = "xxxx"
-        Youtubelegacy = "xxxx"
-        Phone = "555-555-555"
-        Email = "xxxx@xxxx.com"
-        RSS = true
-        [languages.en.params.social.Mastodon]
-          id = "@xxxx"
-          prefix = "https://mastodon.technology/"
+#      [languages.es.params.social]
+#        GitHub = "xxxx"
+#        Twitter = "xxxx"
+#        Instagram = "xxxx"
+#        Facebook = "xxxx"
+#        Telegram = "xxxx"
+#        Youtubelegacy = "xxxx"
+#        Phone = "555-555-555"
+#        Email = "xxxx@xxxx.com"
+#        RSS = true
+#        [languages.es.params.social.Mastodon]
+#          id = "@xxxx"
+#          prefix = "https://mastodon.technology/"
 
-  [languages.zh-cn]
-    weight = 2
-    languageCode = "zh-CN"
-    languageName = "简体中文"
-    hasCJKLanguage = true
-    copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
-    [languages.zh-cn.menu]
-      [[languages.zh-cn.menu.main]]
-        weight = 1
-        identifier = "posts"
-        pre = ""
-        post = ""
-        name = "所有文章"
-        url = "/posts/"
-        title = ""
-      [[languages.zh-cn.menu.main]]
-        weight = 2
-        identifier = "tags"
-        pre = ""
-        post = ""
-        name = "标签"
-        url = "/tags/"
-        title = ""
-      [[languages.zh-cn.menu.main]]
-        weight = 3
-        identifier = "categories"
-        pre = ""
-        post = ""
-        name = "分类"
-        url = "/categories/"
-        title = ""
-      [[languages.zh-cn.menu.main]]
-        weight = 4
-        identifier = "documentation"
-        pre = ""
-        name = "文档"
-        url = "/categories/documentation/"
-        title = ""
-      [[languages.zh-cn.menu.main]]
-        weight = 5
-        identifier = "about"
-        pre = ""
-        post = ""
-        name = "关于"
-        url = "/about/"
-        title = ""
-      [[languages.zh-cn.menu.main]]
-        weight = 6
-        identifier = "github"
-        pre = "<i class='fab fa-github fa-fw' aria-hidden='true'></i>"
-        post = ""
-        name = ""
-        url = "https://github.com/dillonzq/LoveIt"
-        title = "GitHub"
-    [languages.zh-cn.params]
-      [languages.zh-cn.params.search]
-        enable = true
-        type = "algolia"
-        contentLength = 4000
-        placeholder = ""
-        maxResultLength = 10
-        snippetLength = 50
-        highlightTag = "em"
-        absoluteURL = false
-        [languages.zh-cn.params.search.algolia]
-          index = "index.zh-cn"
-          appID = "PASDMWALPK"
-          searchKey = "b42948e51daaa93df92381c8e2ac0f93"
-      [languages.zh-cn.params.home]
-        rss = 10
-        [languages.zh-cn.params.home.profile]
-          enable = true
-          gravatarEmail = ""
-          avatarURL = "/images/avatar.png"
-          title = ""
-          subtitle = "一个简洁、优雅且高效的 Hugo 主题"
-          typeit = true
-          social = true
-          disclaimer = ""
-      [languages.zh-cn.params.social]
-        GitHub = "xxxx"
-        Weibo = "xxxx"
-        Steam = "xxxx"
-        Zhihu = "xxxx"
-        Douban = "xxxx"
-        Devto = "xxxx"
-        Bilibili = "xxxx"
-        Email = "xxxx@xxxx.com"
-        Phone = "555-555-555"
-        RSS = true
