@@ -359,7 +359,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     Plume = ""
     HackTheBox = ""
     RootMe= ""
-    Email = "sergi@tecnopalma.com"
+    Email = "jo@s3rgi.cat"
     RSS = ""
 
   # Page global config
