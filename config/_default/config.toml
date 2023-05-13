@@ -342,7 +342,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     Vine = ""
     Googlescholar = ""
     Researchgate = ""
-    Mastodon = "<a rel="me" href="https://mastodont.cat/@s3rgi">s3rgi</a>"
+    Mastodon = "https://mastodont.cat/@s3rgi"
     Thingiverse = ""
     Devto = ""
     Gitea = ""
