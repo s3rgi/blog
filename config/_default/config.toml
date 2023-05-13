@@ -1,4 +1,4 @@
-baseURL = "https://blog.tecnopalma.es"
+baseURL = "https://blog.s3rgi.cat"
 
 # theme
 # 主题
@@ -342,7 +342,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     Vine = ""
     Googlescholar = ""
     Researchgate = ""
-    Mastodon = "https://mastodont.cat/@s3rgi"
+    Mastodon = "<a rel="me" href="https://mastodont.cat/@s3rgi">s3rgi</a>"
     Thingiverse = ""
     Devto = ""
     Gitea = ""
